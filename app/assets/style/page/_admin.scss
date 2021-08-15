@@ -1,0 +1,37 @@
+.nav{
+    min-height: 100vh;
+    min-width: 296px;
+    position: fixed;
+}
+
+.title a{
+    display: block;
+}
+
+.nav-list {
+    li {
+        margin-bottom: 22px;
+    }
+    a { 
+        position: relative;
+        color: $text-gray;
+    }
+}
+
+.user-img {
+    background-image: url(https://github.com/hexschool/webLayoutTraining1st/blob/master/week5/andychen.jpeg?raw=true);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 24px;
+    height: 40px;
+    width: 40px;
+}
+
+.content {
+    margin-left: 296px;
+}
+
+
+
+

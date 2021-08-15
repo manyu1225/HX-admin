@@ -6,28 +6,31 @@
 .text-weight{
     font-weight: bold;
 }
+
 .mb-1{
-    margin-bottom: 8px;
+    margin-bottom: 4px !important;
 }
 .mb-2{
-    margin-bottom: 16px;
+    margin-bottom: 8px !important;
 }
-
 .mb-4{
-    margin-bottom: 32px;
+    margin-bottom: 16px !important;
 }
-.mb-5{
-    margin-bottom: 40px;
+.me-2{
+    margin-right: 8px !important;
 }
-.mb-8{
-    margin-bottom: 64px;
+.me-6{
+    margin-right: 24px !important;
 }
-.mr-1{
-    margin-right: 8px;
+.me-4{
+    margin-right: 16px !important;
 }
-.ml-4{
-    margin-left: 32px;
+.ps-5{
+    padding-left: 20px !important;
 }
-.pt-8{
-    padding-top: 64px;
+.pt-5{
+    padding-top:20px !important;
+}
+.pb-5{
+    padding-bottom: 20px !important;
 }
